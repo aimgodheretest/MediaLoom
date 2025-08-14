@@ -42,7 +42,7 @@ const Footer = () => {
                     About
                   </a>
                 </li> */}
-                
+
                 <li>
                   <a
                     href="#"
@@ -160,14 +160,14 @@ const Footer = () => {
                 </a>
               </div>
               <p className="mt-4 text-gray-400 text-sm">
-                Email: support@templatesee.com
+                Email: support@medialoom.com
               </p>
             </div>
           </div>
 
           {/* <!-- Footer Bottom: Copyright --> */}
           <div className="mt-8 border-t border-gray-700 pt-4 text-center text-gray-400 text-sm">
-            <p>© 2025 TemplateSee. All rights reserved.</p>
+            <p>© 2025 MediaLoom. All rights reserved.</p>
           </div>
         </div>
       </footer>
