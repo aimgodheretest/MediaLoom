@@ -5,7 +5,7 @@ A **real-time live streaming platform** built with React and **custom UI compone
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Live](https://media-loom.vercel.app/)  
+🔗 [View Live](https://media-loom-iota.vercel.app/)  
 
 ---
 
