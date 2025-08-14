@@ -1,12 +1,31 @@
-# React + Vite
+# 📺 Media-Loom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **real-time live streaming platform** built with React and **custom UI components**, integrated with **ZEGOCLOUD API** for scalable and low-latency video streaming.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+🔗 [View Live](https://media-loom.vercel.app/)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![ZEGOCLOUD](https://img.shields.io/badge/ZEGOCLOUD_API-00ADEF?logo=webrtc&logoColor=white)  
+
+---
+
+## ✨ Features  
+- 🎥 Live video streaming with minimal latency  
+- ⚡ Instant session joining  
+- 📱 Fully responsive custom interface  
+- 🗨️ Real-time interaction support  
+- ☁️ Scalable with ZEGOCLOUD API  
+
+---
+
+## 📸 Screenshots  
+![App Screenshot](./public/MediaLoom.png)  
+
+---
